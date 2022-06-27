@@ -1,9 +1,9 @@
 INDEX VERSION 1.131+D:\BootCamp-SPRING-DevSuperior\dslearn-bds3-projeto-inicial\.metadata\.plugins\org.eclipse.jdt.core
 1162778990.index
-1521027075.index
-843324869.index
 57568072.index
+843324869.index
 1748374594.index
+1521027075.index
 3293723454.index
 1550637600.index
 1662491315.index
@@ -16,8 +16,8 @@ INDEX VERSION 1.131+D:\BootCamp-SPRING-DevSuperior\dslearn-bds3-projeto-inicial\
 201825475.index
 3993263774.index
 3226419297.index
-2363488097.index
 2058915224.index
+2363488097.index
 2115998529.index
 1272512202.index
 1865797976.index
@@ -34,16 +34,16 @@ INDEX VERSION 1.131+D:\BootCamp-SPRING-DevSuperior\dslearn-bds3-projeto-inicial\
 3582480258.index
 934200423.index
 568298338.index
-3220872527.index
 1165880748.index
-533583830.index
+3220872527.index
 468616513.index
+533583830.index
 1058808438.index
 3232994682.index
 4033186056.index
 42439559.index
-1916488620.index
 55350768.index
+1916488620.index
 1625905607.index
 1201170065.index
 1039879583.index
@@ -78,6 +78,7 @@ INDEX VERSION 1.131+D:\BootCamp-SPRING-DevSuperior\dslearn-bds3-projeto-inicial\
 1809734770.index
 1864526573.index
 3221736723.index
+1965174767.index
 3738430824.index
 3531547650.index
 2224798068.index
