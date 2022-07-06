@@ -87,8 +87,8 @@ public class User implements Serializable {
 		return roles;
 	}
 
-	public List<Notification> getNotifications() {
-		return notifications;
+	public void setRoles(Set<Role> roles) {
+		this.roles = roles;
 	}
 
 	@Override
@@ -108,5 +108,4 @@ public class User implements Serializable {
 		return Objects.equals(id, other.id);
 	}
 
-	
 }
