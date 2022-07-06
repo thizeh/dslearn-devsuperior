@@ -10,7 +10,7 @@ public class Content extends Lesson {
 
 	private String textContent;
 	private String videoUri;
-
+	
 	public Content() {
 	}
 

@@ -78,7 +78,6 @@ INDEX VERSION 1.131+D:\BootCamp-SPRING-DevSuperior\dslearn-bds3-projeto-inicial\
 1809734770.index
 1864526573.index
 3221736723.index
-1965174767.index
 3738430824.index
 3531547650.index
 2224798068.index
