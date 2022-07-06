@@ -653,3 +653,10 @@
 2022-06-28 18:05:38,355 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-06-28 18:05:38,355 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-06-28 18:05:38,355 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BootCamp-SPRING-DevSuperior\dslearn-bds3-projeto-inicial\backend\src\test\resources
+2022-06-28 18:10:59,973 [Worker-12: Launching backend - DslearnbdsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-28 18:10:59,973 [Worker-12: Launching backend - DslearnbdsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-28 18:10:59,973 [Worker-12: Launching backend - DslearnbdsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-28 18:10:59,973 [Worker-12: Launching backend - DslearnbdsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-28 18:10:59,977 [Worker-12: Launching backend - DslearnbdsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-28 18:10:59,977 [Worker-12: Launching backend - DslearnbdsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-28 18:10:59,977 [Worker-12: Launching backend - DslearnbdsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BootCamp-SPRING-DevSuperior\dslearn-bds3-projeto-inicial\backend\src\test\resources
