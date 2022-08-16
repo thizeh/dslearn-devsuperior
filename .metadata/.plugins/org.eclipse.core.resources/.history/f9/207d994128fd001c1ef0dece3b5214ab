@@ -1,6 +1,0 @@
-package com.devsuperior.dslearnbds.entities;
-
-public class Task extends Lesson {
-	private static final long serialVersionUID = 1L;
-
-}
